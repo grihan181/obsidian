@@ -1,38 +1,36 @@
 {
   "main": {
-    "id": "c26fac5e371c1ad3",
+    "id": "5ba0daf062d3c77a",
     "type": "split",
     "children": [
       {
-        "id": "0fa87df110eb37de",
+        "id": "89bafaa92419b14e",
         "type": "tabs",
         "children": [
           {
-            "id": "1a74b78f9a461b39",
+            "id": "6933e9fb6b364f7c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "README.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d8d764d86cc9ac0c",
+    "id": "5e6bbff2c45b9e05",
     "type": "split",
     "children": [
       {
-        "id": "411b160c7941123b",
+        "id": "07d0c30ac44be323",
         "type": "tabs",
         "children": [
           {
-            "id": "431a6df1d19311f4",
+            "id": "c8bf04d23d113dd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,13 +40,13 @@
             }
           },
           {
-            "id": "b45ec1ba7427c7f1",
+            "id": "50a2bf1a96f6f2dd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -57,7 +55,15 @@
             }
           },
           {
-            "id": "e388f91a9e54f8d3",
+            "id": "41be7fe9e83b7b2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6033ff1a6b7419f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 541.5
   },
   "right": {
-    "id": "01efbd5e418b7e7b",
+    "id": "b90a55bad1c346f5",
     "type": "split",
     "children": [
       {
-        "id": "589a46e65ed9b11e",
+        "id": "69827834b22af9bb",
         "type": "tabs",
         "children": [
           {
-            "id": "db21c842bc15ca38",
+            "id": "647fb5034a674815",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -90,12 +96,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "acd1e254ac23a3da",
+            "id": "7be02d1884af4ffb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -106,38 +112,30 @@
             }
           },
           {
-            "id": "191747d36d68e1bb",
+            "id": "7ac32e057e3a38fc",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "cbc407d2303507a9",
+            "id": "c4436d70f9094fe8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "6789c5c63f29bb12",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +144,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6789c5c63f29bb12",
+  "active": "6933e9fb6b364f7c",
   "lastOpenFiles": [
-    "README.md"
+    "Собесы/БД/NoSQL/MongoDB/Что есть Read, Write concern.md",
+    "Собесы/БД/NoSQL/MongoDB/Что есть replica set.md",
+    "Собесы/БД/NoSQL/MongoDB/Что есть WireTiger. Какой вид блокировок использует. (MVCC).md",
+    "Собесы/БД/NoSQL/MongoDB/С помощью какого механизма MongoDB гарантирует персистентность (WAL, Journal).md",
+    "Собесы/БД/NoSQL/MongoDB/Позитивные и негативные сценарии использования MongoDB.md",
+    "Собесы/БД/NoSQL/MongoDB/Как выглядит архитектура шардированного кластера.md",
+    "Собесы/БД/NoSQL/MongoDB/Индексы. Какие бывают виды. Какие есть дополнительные атрибуты у индексов. Какой стратегии следует придерживаться..md",
+    "Собесы/БД/NoSQL/In-memory DB/Распределенный лок, что это и когда нужен.md",
+    "Собесы/БД/NoSQL/MongoDB/MongoDB.md",
+    "Собесы/БД/NoSQL/In-memory DB/Какие алгоритмы вытеснения кеша есть, когда использовать.md",
+    "Собесы/БД/NoSQL/In-memory DB/Как работает распределенный лок.md",
+    "Собесы/БД/NoSQL/In-memory DB/In-memory DB.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое Semaphore.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое CyclicBarrier.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое CountDownLatch.md",
+    "Собесы/Многопоточность/Lock/ReentrantLock.md",
+    "Собесы/Многопоточность/Lock/ReadWriteLock.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Дополнительные примитивы синхронизации.md",
+    "Собесы/Многопоточность/Lock/Lock.md",
+    "Собесы/Многопоточность/Lock/Condition.md",
+    "Собесы/БД/Транзакции/Транзакции.md",
+    "Собесы/БД/Транзакции/Какие существуют уровни изолированности транзакций.md",
+    "Собесы/БД/Транзакции/Назовите основные свойства транзакции.md",
+    "Собесы/БД/Транзакции/Какие проблемы могут возникать при параллельном доступе с использованием транзакций.md",
+    "Собесы/БД/Транзакции/ACID или 4 свойства транзакций.md",
+    "Собесы/БД/PostreSQL/Виды индексов.md",
+    "Собесы/БД/NoSQL/MongoDB",
+    "Собесы/БД/NoSQL/In-memory DB",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации",
+    "Собесы/Многопоточность/Lock",
+    "Собесы/БД/Транзакции",
+    "Собесы/БД/PostreSQL",
+    "Собесы/БД/NoSQL",
+    "Собесы/Исключения/Exceptions",
+    "Собесы/Исключения/Errors",
+    "Собесы/Шаблоны или Паттерны проектирования",
+    "collections framework overview.png",
+    "obsidian/collections framework overview.png",
+    "test/collections framework overview.png",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Собесы/ООП/Без названия.canvas",
+    "Sql.canvas"
   ]
 }

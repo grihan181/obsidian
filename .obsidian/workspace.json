@@ -23,12 +23,8 @@
             "id": "3083292ad4185071",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Собесы/Java 8/Java 8.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -107,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собесы/Java 8/Java 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собесы/Java 8/Java 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Собесы/Java 8/Java 8.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,10 +162,12 @@
   },
   "active": "3083292ad4185071",
   "lastOpenFiles": [
+    "Собесы/Java 8/Java 8.md",
+    "Собесы/Java 8/Какие конечные методы работы со стримами(stream) вы знаете.md",
+    "Собесы/Java 8/Какие промежуточные методы работы со стримами вы знаете.md",
     "Собесы/Java 8/Какие конечные методы работы со стримами вы знаете.md",
     "Собесы/Темы.md",
     "Собесы/Java 8/Какие промежуточные методы работы со стримами(stream) вы знаете.md",
-    "Собесы/Java 8/Какие конечные методы работы со стримами(stream) вы знаете.md",
     "Собесы/JAVA Collections/Как избежать ConcurrentModificationException во время перебора коллекции.md",
     "Собесы/БД/NoSQL/Классификация.md",
     "Собесы/БД/NoSQL/MongoDB/Индексы. Какие бывают виды. Какие есть дополнительные атрибуты у индексов. Какой стратегии следует придерживаться..md",
@@ -192,10 +186,8 @@
     "Собесы/Исключения/Exceptions/Exceptions.md",
     "Собесы/Многопоточность/Многопоточность.md",
     "Собесы/Многопоточность/Перечислите принципы, которым вы следуете в многопоточном программировании.md",
-    "Собесы/Java 8/Java 8.md",
     "Собесы/Java Core/Java Core.md",
     "Собесы/Kafka/Kafka.md",
-    "Собесы/Kafka/Сходство Kafka и Rabbit MQ.md",
     "collections framework overview.png",
     "Obsidian Vault.rar",
     "Собесы/БД/NoSQL/In-memory DB",

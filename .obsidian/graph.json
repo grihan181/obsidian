@@ -8,10 +8,66 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Собесы/Исключения/Errors  ",
+      "query": "path:Собесы/Исключения  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Собесы/Kafka  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Собесы/БД/Транзакции  ",
+      "color": {
+        "a": 1,
+        "rgb": 2682880
+      }
+    },
+    {
+      "query": "path:Собесы/Многопоточность  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:Собесы/Тестирование  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
+    },
+    {
+      "query": "path:Собесы/ООП  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:Собесы/БД  ",
+      "color": {
+        "a": 1,
+        "rgb": 3604735
+      }
+    },
+    {
+      "query": "path:\"Собесы/JAVA Collections\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:Собесы/Сокращения  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -25,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858336,
+  "scale": 0.2588386562181664,
   "close": true
 }

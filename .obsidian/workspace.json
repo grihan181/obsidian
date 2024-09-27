@@ -4,14 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "89bafaa92419b14e",
+        "id": "4167e4be0ef5afd7",
         "type": "tabs",
         "children": [
           {
-            "id": "6933e9fb6b364f7c",
+            "id": "7787c73e818c015b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Собесы/Темы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3083292ad4185071",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -45,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "equals",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 544.5
   },
   "right": {
     "id": "b90a55bad1c346f5",
@@ -90,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Собесы/Темы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Собесы/Темы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Собесы/Темы.md"
+              }
             }
           }
         ],
@@ -139,56 +155,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "graph:Граф": false
     }
   },
-  "active": "6933e9fb6b364f7c",
+  "active": "7787c73e818c015b",
   "lastOpenFiles": [
-    "Собесы/БД/NoSQL/MongoDB/Что есть Read, Write concern.md",
-    "Собесы/БД/NoSQL/MongoDB/Что есть replica set.md",
-    "Собесы/БД/NoSQL/MongoDB/Что есть WireTiger. Какой вид блокировок использует. (MVCC).md",
-    "Собесы/БД/NoSQL/MongoDB/С помощью какого механизма MongoDB гарантирует персистентность (WAL, Journal).md",
-    "Собесы/БД/NoSQL/MongoDB/Позитивные и негативные сценарии использования MongoDB.md",
-    "Собесы/БД/NoSQL/MongoDB/Как выглядит архитектура шардированного кластера.md",
+    "Собесы/JAVA Collections/Как избежать ConcurrentModificationException во время перебора коллекции.md",
+    "Собесы/Темы.md",
+    "Собесы/БД/NoSQL/Классификация.md",
     "Собесы/БД/NoSQL/MongoDB/Индексы. Какие бывают виды. Какие есть дополнительные атрибуты у индексов. Какой стратегии следует придерживаться..md",
-    "Собесы/БД/NoSQL/In-memory DB/Распределенный лок, что это и когда нужен.md",
-    "Собесы/БД/NoSQL/MongoDB/MongoDB.md",
-    "Собесы/БД/NoSQL/In-memory DB/Какие алгоритмы вытеснения кеша есть, когда использовать.md",
     "Собесы/БД/NoSQL/In-memory DB/Как работает распределенный лок.md",
+    "Собесы/БД/NoSQL/In-memory DB/Какие алгоритмы вытеснения кеша есть, когда использовать.md",
+    "Собесы/БД/NoSQL/In-memory DB/Распределенный лок, что это и когда нужен.md",
     "Собесы/БД/NoSQL/In-memory DB/In-memory DB.md",
-    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое Semaphore.md",
-    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое CyclicBarrier.md",
-    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое CountDownLatch.md",
-    "Собесы/Многопоточность/Lock/ReentrantLock.md",
-    "Собесы/Многопоточность/Lock/ReadWriteLock.md",
-    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Дополнительные примитивы синхронизации.md",
-    "Собесы/Многопоточность/Lock/Lock.md",
-    "Собесы/Многопоточность/Lock/Condition.md",
-    "Собесы/БД/Транзакции/Транзакции.md",
-    "Собесы/БД/Транзакции/Какие существуют уровни изолированности транзакций.md",
-    "Собесы/БД/Транзакции/Назовите основные свойства транзакции.md",
-    "Собесы/БД/Транзакции/Какие проблемы могут возникать при параллельном доступе с использованием транзакций.md",
-    "Собесы/БД/Транзакции/ACID или 4 свойства транзакций.md",
+    "Собесы/БД/Какие существуют нормальные формы.md",
+    "Собесы/БД/PostreSQL/Уровни изоляции транзакций.md",
+    "Собесы/БД/PostreSQL/PostgreSQL.md",
+    "Собесы/БД/PostreSQL/Как выглядит архитектура шардированного кластера.md",
     "Собесы/БД/PostreSQL/Виды индексов.md",
-    "Собесы/БД/NoSQL/MongoDB",
-    "Собесы/БД/NoSQL/In-memory DB",
-    "Собесы/Многопоточность/Дополнительные примитивы синхронизации",
-    "Собесы/Многопоточность/Lock",
-    "Собесы/БД/Транзакции",
-    "Собесы/БД/PostreSQL",
-    "Собесы/БД/NoSQL",
-    "Собесы/Исключения/Exceptions",
-    "Собесы/Исключения/Errors",
-    "Собесы/Шаблоны или Паттерны проектирования",
+    "Собесы/JAVA Collections/JAVA Collections.md",
+    "Собесы/JAVA Collections/Приведите примеры итераторов, реализующих поведение fail-safe.md",
+    "Собесы/Исключения/Исключения (Throwable).md",
+    "Собесы/Исключения/Exceptions/Exceptions.md",
+    "Собесы/Многопоточность/Многопоточность.md",
+    "Собесы/Многопоточность/Перечислите принципы, которым вы следуете в многопоточном программировании.md",
+    "Собесы/Java 8/Java 8.md",
+    "Собесы/Java Core/Java Core.md",
+    "Собесы/Kafka/Kafka.md",
+    "Собесы/Kafka/Сходство Kafka и Rabbit MQ.md",
+    "Собесы/Kafka/Различия Kafka и Rabbit MQ.md",
+    "Собесы/Исключения/Exceptions/Какие виды исключений в Java вы знаете, чем они отличаются. Что такое checked и unchecked exception..md",
+    "Собесы/Исключения/Exceptions/Какие существуют unchecked exception.md",
     "collections framework overview.png",
-    "obsidian/collections framework overview.png",
-    "test/collections framework overview.png",
+    "Obsidian Vault.rar",
+    "Собесы/БД/NoSQL/In-memory DB",
+    "Собесы/БД/NoSQL/MongoDB",
+    "Собесы/БД/NoSQL/MongoDB",
+    "Собесы/БД/NoSQL",
+    "Собесы.rar",
+    "Собесы/БД/Транзакции",
     "Без названия.canvas",
+    "Собесы/Многопоточность/Потокобезопасные коллекции",
+    "Собесы/Многопоточность/Atomics",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации",
     "Без названия 1.canvas",
     "Собесы/ООП/Без названия.canvas",
     "Sql.canvas"

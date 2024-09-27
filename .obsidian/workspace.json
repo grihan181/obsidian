@@ -23,11 +23,16 @@
             "id": "3083292ad4185071",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Собесы/Java 8/Java 8.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собесы/Темы.md",
+                "file": "Собесы/Java 8/Java 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собесы/Темы.md",
+                "file": "Собесы/Java 8/Java 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Собесы/Темы.md"
+                "file": "Собесы/Java 8/Java 8.md"
               }
             }
           }
@@ -155,18 +160,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Создать новый холст": false,
-      "switcher:Меню быстрого перехода": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "graph:Граф": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7787c73e818c015b",
+  "active": "3083292ad4185071",
   "lastOpenFiles": [
-    "Собесы/JAVA Collections/Как избежать ConcurrentModificationException во время перебора коллекции.md",
+    "Собесы/Java 8/Какие конечные методы работы со стримами вы знаете.md",
     "Собесы/Темы.md",
+    "Собесы/Java 8/Какие промежуточные методы работы со стримами(stream) вы знаете.md",
+    "Собесы/Java 8/Какие конечные методы работы со стримами(stream) вы знаете.md",
+    "Собесы/JAVA Collections/Как избежать ConcurrentModificationException во время перебора коллекции.md",
     "Собесы/БД/NoSQL/Классификация.md",
     "Собесы/БД/NoSQL/MongoDB/Индексы. Какие бывают виды. Какие есть дополнительные атрибуты у индексов. Какой стратегии следует придерживаться..md",
     "Собесы/БД/NoSQL/In-memory DB/Как работает распределенный лок.md",
@@ -188,9 +196,6 @@
     "Собесы/Java Core/Java Core.md",
     "Собесы/Kafka/Kafka.md",
     "Собесы/Kafka/Сходство Kafka и Rabbit MQ.md",
-    "Собесы/Kafka/Различия Kafka и Rabbit MQ.md",
-    "Собесы/Исключения/Exceptions/Какие виды исключений в Java вы знаете, чем они отличаются. Что такое checked и unchecked exception..md",
-    "Собесы/Исключения/Exceptions/Какие существуют unchecked exception.md",
     "collections framework overview.png",
     "Obsidian Vault.rar",
     "Собесы/БД/NoSQL/In-memory DB",

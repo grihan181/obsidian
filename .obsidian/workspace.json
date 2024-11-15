@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4167e4be0ef5afd7",
+        "id": "d6fc657ac10bb016",
         "type": "tabs",
         "children": [
           {
-            "id": "7787c73e818c015b",
+            "id": "de56141d1bd0cf39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Собесы/Темы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3083292ad4185071",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+                "file": "collections framework overview.png"
+              },
+              "icon": "lucide-image",
+              "title": "collections framework overview"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +40,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -58,13 +51,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equals",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -72,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -80,14 +77,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 544.5
+    "width": 357.5
   },
   "right": {
     "id": "b90a55bad1c346f5",
@@ -110,7 +109,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -121,7 +122,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -132,7 +135,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,15 +145,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,35 +167,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3083292ad4185071",
+  "active": "de56141d1bd0cf39",
   "lastOpenFiles": [
-    "Собесы/Java 8/Java 8.md",
-    "Собесы/Java 8/Какие конечные методы работы со стримами(stream) вы знаете.md",
-    "Собесы/Java 8/Какие промежуточные методы работы со стримами вы знаете.md",
-    "Собесы/Java 8/Какие конечные методы работы со стримами вы знаете.md",
-    "Собесы/Темы.md",
-    "Собесы/Java 8/Какие промежуточные методы работы со стримами(stream) вы знаете.md",
-    "Собесы/JAVA Collections/Как избежать ConcurrentModificationException во время перебора коллекции.md",
-    "Собесы/БД/NoSQL/Классификация.md",
-    "Собесы/БД/NoSQL/MongoDB/Индексы. Какие бывают виды. Какие есть дополнительные атрибуты у индексов. Какой стратегии следует придерживаться..md",
-    "Собесы/БД/NoSQL/In-memory DB/Как работает распределенный лок.md",
-    "Собесы/БД/NoSQL/In-memory DB/Какие алгоритмы вытеснения кеша есть, когда использовать.md",
-    "Собесы/БД/NoSQL/In-memory DB/Распределенный лок, что это и когда нужен.md",
-    "Собесы/БД/NoSQL/In-memory DB/In-memory DB.md",
-    "Собесы/БД/Какие существуют нормальные формы.md",
-    "Собесы/БД/PostreSQL/Уровни изоляции транзакций.md",
-    "Собесы/БД/PostreSQL/PostgreSQL.md",
-    "Собесы/БД/PostreSQL/Как выглядит архитектура шардированного кластера.md",
-    "Собесы/БД/PostreSQL/Виды индексов.md",
-    "Собесы/JAVA Collections/JAVA Collections.md",
-    "Собесы/JAVA Collections/Приведите примеры итераторов, реализующих поведение fail-safe.md",
+    "Собесы/Garbage Collector/Тюнинг и мониторинг.md",
+    "Собесы/Garbage Collector/Типы GC в JVM.md",
+    "Собесы/Шаблоны или Паттерны проектирования/Что такое Dependency Injection.md",
+    "Собесы/Исключения/Exceptions/Какие виды исключений в Java вы знаете, чем они отличаются. Что такое checked и unchecked exception..md",
+    "Собесы/Многопоточность/Виртуальные потоки (Java virtual threads).md",
+    "Собесы/Многопоточность/Многопоточность.md",
+    "Собесы/Многопоточность/Что такое livelock.md",
+    "Собесы/Многопоточность/Что такое deadlock.md",
+    "Собесы/Многопоточность/Что такое «фреймворк Fork и Join».md",
+    "Собесы/Многопоточность/ExecutorService.md",
+    "Собесы/Многопоточность/Lock/Condition.md",
+    "Собесы/Многопоточность/Lock/Lock.md",
+    "Собесы/Многопоточность/Lock/ReadWriteLock.md",
+    "Собесы/Многопоточность/Lock/ReentrantLock.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое Semaphore.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое CyclicBarrier.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Что такое CountDownLatch.md",
+    "Собесы/Многопоточность/Дополнительные примитивы синхронизации/Дополнительные примитивы синхронизации.md",
     "Собесы/Исключения/Исключения (Throwable).md",
     "Собесы/Исключения/Exceptions/Exceptions.md",
-    "Собесы/Многопоточность/Многопоточность.md",
-    "Собесы/Многопоточность/Перечислите принципы, которым вы следуете в многопоточном программировании.md",
-    "Собесы/Java Core/Java Core.md",
-    "Собесы/Kafka/Kafka.md",
+    "Собесы/Исключения/Exceptions/Какие существуют unchecked exception.md",
+    "Собесы/Шаблоны или Паттерны проектирования/Приведите примеры основных шаблонов проектирования..md",
+    "Собесы/Шаблоны или Паттерны проектирования/Приведите примеры поведенческих шаблонов проекти рования.md",
+    "Собесы/Шаблоны или Паттерны проектирования/Приведите примеры порождающих шаблонов проектирования.md",
+    "Собесы/Шаблоны или Паттерны проектирования/Приведите примеры структурных шаблонов проектирования..md",
+    "Собесы/Шаблоны или Паттерны проектирования/Типы шаблонов проектирования..md",
     "collections framework overview.png",
+    "trans_isol.jpg",
     "Obsidian Vault.rar",
     "Собесы/БД/NoSQL/In-memory DB",
     "Собесы/БД/NoSQL/MongoDB",
